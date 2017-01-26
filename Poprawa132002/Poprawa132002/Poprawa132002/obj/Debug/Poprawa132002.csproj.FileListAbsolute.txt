@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Poprawa132002\Poprawa132002\Poprawa132002\bin\Debug\Poprawa132002.exe.config
+C:\Users\local\Desktop\Poprawa132002\Poprawa132002\Poprawa132002\obj\Debug\Poprawa132002.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Poprawa132002\Poprawa132002\Poprawa132002\bin\Debug\Poprawa132002.exe
+C:\Users\local\Desktop\Poprawa132002\Poprawa132002\Poprawa132002\bin\Debug\Poprawa132002.pdb
+C:\Users\local\Desktop\Poprawa132002\Poprawa132002\Poprawa132002\obj\Debug\Poprawa132002.exe
+C:\Users\local\Desktop\Poprawa132002\Poprawa132002\Poprawa132002\obj\Debug\Poprawa132002.pdb
